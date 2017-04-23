@@ -1,0 +1,47 @@
+﻿body {
+    direction: rtl;
+    Width: 960px;
+    Margin: 0 auto;
+    background-image: url('../7135.jpg');
+    background-position: center;
+    background-repeat: round;
+    font-family: Calibri;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1500px;
+
+  
+
+    
+}
+#container {
+    Width: 650px;
+    Margin: 0 auto;
+    padding:2px 5px 2px 5px;
+    border:10px solid black;
+    position:center;
+    background:center;
+    text-align:center;
+ background-color:#ffffff;
+
+
+  \
+}
+
+   h1{
+    text-align:center;
+    font-family:Calibri;
+     font-size:50px;
+     color:#1d6e9a;
+    
+}
+     h2{
+    text-align:center;
+    font-family:Calibri;
+     font-size:20px;
+     color:#1995a9;
+    
+}
+     h3{
+
+     }
